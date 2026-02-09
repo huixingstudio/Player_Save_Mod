@@ -1,0 +1,9 @@
+{
+    "resource_pack_name": "vanilla",
+    "texture_data": {
+        "xiaoshuihuixing:item_5": {
+            "textures": "textures/items/medical_kit"
+        }
+    },
+    "texture_name": "atlas.items"
+}

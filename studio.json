@@ -1,0 +1,52 @@
+{
+  "Source": "import",
+  "CreateVersion": "3.7.0.211586",
+  "EditVersion": "3.7.0.211586",
+  "OldEditCount": 0,
+  "NewEditCount": 9,
+  "OldComponents": [],
+  "Account": "dreamwang113@163.com",
+  "UserName": "彗星工作室",
+  "UserId": "159948",
+  "Id": "e691150ea2284bdb96babdaded102cff",
+  "EditType": 2,
+  "IsMap": false,
+  "CreateNew": true,
+  "CodeEnable": false,
+  "CanPublishResourceComponent": true,
+  "EditName": "Player_Save_Mod",
+  "GameType": 1,
+  "WorldType": 1,
+  "Seed": "",
+  "BlockNums": [
+    0,
+    0
+  ],
+  "BornPoint": [
+    0,
+    0,
+    0
+  ],
+  "SaveBackMapPath": null,
+  "SaveBackAddOnPath": "D:\\MCStudioDownload\\work\\dreamwang113@163.com\\Cpp\\AddOn\\e691150ea2284bdb96babdaded102cff",
+  "ResourceIds": [
+    "4663899388926617335",
+    "4663898983670385719"
+  ],
+  "EditAddOnPaths": [],
+  "NameSpace": "xiaoshuihuixing",
+  "EditMaterialPaths": [],
+  "EditLogFilePath": "D:\\MCStudioDownload\\work\\editor\\edit.log",
+  "ServerName": "EXPR",
+  "StudioPort": 12335,
+  "DCWebUrl": "https://x19apigatewayexpr.nie.netease.com",
+  "ShowGuide": false,
+  "AssertCacheDir": "D:\\MCStudioDownload\\EngineAssert",
+  "ElkUrl": "https://x19mclexpr.nie.netease.com/client-log",
+  "ShowGpuDriverTips": false,
+  "StudioTempPath": "D:\\MCStudioDownload\\temp\\editorTemp",
+  "EditorResourcePackPath": "D:\\soft\\MCStudio\\data\\inner_res",
+  "EditDate": 1770277027,
+  "EditDuration": 137312,
+  "TestDuration": 36253
+}
